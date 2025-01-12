@@ -1,5 +1,4 @@
-# Untitled Projects
-### By Neko Boi Nick
+# Untitled Projects <sub>By Neko Boi Nick</sub>
 
 A collection of untitled or one off projects by [Neko Boi Nick](https://github.com)
 
